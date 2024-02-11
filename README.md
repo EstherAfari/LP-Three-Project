@@ -22,11 +22,17 @@ Null: Corporation Favorita's retail sales are not significantly impacted by the 
 Alternate: Corporation Favorita's retail sales are  significantly impacted by the promotional activities.
 # ANALYTICAL QUESTIONS
 a) Which dates have the lowest and highest sales for each year?
+
 b) Did the earthquake impact sales?
+
 c) What is the correlation between promotion frequency and total sales for each store?
+
 d) What is the sales trend by year, month, week and day?
+
 e) What is the overall sales trend?
+
 f) What is the sales distribution across different stores clusters?
+
 g) What product families contribute the most to the overall sales across all stores?
 
 
